@@ -77,3 +77,14 @@ Only share information that can be discussed publicly. Do not submit confidentia
 [Visit PhysioVerse](https://physioverse.org/) ·
 [Explore the PhysioVerse GitHub profile](https://github.com/PhysioVerse-OSE) ·
 [Start contributing](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md)
+
+
+<!-- physioverse:task-update-v14:practical-template:start -->
+## Practical Contribution Template
+
+Nominate a versioned protocol and connect its reported context to public studies and datasets.
+
+**[Open the template](docs/community-tasks/PROTOCOL_RECORD_TEMPLATE.md)** | **[Submit your contribution](https://github.com/PhysioVerse-OSE/mps-protocol-commons/issues/new?template=community-contribution.yml)**
+
+Use a real public source, mark missing information explicitly, and send Mostafa the Issue or Pull Request link after submitting.
+<!-- physioverse:task-update-v14:practical-template:end -->
