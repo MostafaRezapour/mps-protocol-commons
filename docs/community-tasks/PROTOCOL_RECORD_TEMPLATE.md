@@ -49,4 +49,4 @@ Use Reported, Not reported, Not applicable, or Unclear. Do not fill an unreporte
 
 Explain why the resource is useful and which information is missing. A protocol listing should not be interpreted as endorsement, proof of reproducibility, or formal validation. Record review comments and sources before an accepted record is incorporated.
 
-Use the original source for operational details. Do not copy restricted SOPs into GitHub. Send Mostafa the contribution link after submitting.
+Use the original source for operational details. Link to the protocol rather than reproduce restricted SOP content.
